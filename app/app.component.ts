@@ -5,7 +5,7 @@ import { MessageService } from "./services/message.service";
 import { MessageComponent } from "./message/message.component";
 import { MatSnackBar } from "@angular/material";
 
-
+//test
 @Component({
   selector: 'app-component',
   styleUrls: ['app.component.css'],
